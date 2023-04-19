@@ -1,2 +1,4 @@
-含两个WA框架的用例
+iOS系统 
+测试框架：Pytest+WA
 被测应用：wetestdemo
+
